@@ -1,6 +1,9 @@
 {
 	"name": "ss-dark",
 	"displayName": "SS-Dark",
+	"repository": {
+		"url": "https://github.com/S-STALWART-S/ss-dark-theme"
+	},
 	"publisher": "thess",
 	"description": "Customize of Atom One Dark theme",
 	"version": "0.0.1",
@@ -15,7 +18,7 @@
 			{
 				"label": "SS Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Atom Two Dark-color-theme.json"
+				"path": "./themes/SS-Dark-Theme.json"
 			}
 		]
 	}
