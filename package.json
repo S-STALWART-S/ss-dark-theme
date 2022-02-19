@@ -1,0 +1,22 @@
+{
+	"name": "ss-dark",
+	"displayName": "SS-Dark",
+	"publisher": "thess",
+	"description": "Customize of Atom One Dark theme",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.64.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "SS Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atom Two Dark-color-theme.json"
+			}
+		]
+	}
+}
